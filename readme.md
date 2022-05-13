@@ -1,3 +1,3 @@
  # demo eburn
  
- learning git
+ learning github
